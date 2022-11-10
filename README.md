@@ -35,6 +35,11 @@ hehehe...
 i binge on hdestifying the wardens to hdest, so i made this.
 
 
+>HDestSounds PSX Edition 
+
+Basically the same as HDestSounds but with the sounds from PS1 Doom/Doom 64. From id Software, Matt, Aubrey Hodges, Jaxxoon R, DeXiaZ and SCD.
+
+
 [1] - SIDENOTE ON USING THE TWO PACKS: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
 
 Full credits in the primary credits file.
