@@ -40,6 +40,11 @@ i binge on hdestifying the wardens to hdest, so i made this.
 Basically the same as HDestSounds but with the sounds from PS1 Doom/Doom 64. From id Software, Raven Software, Matt, Aubrey Hodges, Jaxxoon R, DeXiaZ, and SCD.
 
 
+>ZFootstepsMC
+
+footstep replacement sounds from the footsteps addon for zdoom. 'nuff said. From The Zombie Killer and Ral22.
+
+
 [1] - SIDENOTE ON USING THE TWO PACKS: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
 
 Full credits in the primary credits file.
