@@ -45,6 +45,11 @@ Basically the same as HDestSounds but with the sounds from PS1 Doom/Doom 64. Fro
 footstep replacement sounds from the footsteps addon for zdoom. 'nuff said. From The Zombie Killer and Ral22.
 
 
-[1] - SIDENOTE ON USING THE TWO PACKS: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
+>Rene's Combat Texture Pack
+
+self-explanatory. Commissioned by gabixPHpear. Full credits in the credits file for the mod.
+
+
+[1] - SIDENOTE ON USING ANY PACK HAVING THIS NOTE: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
 
 Full credits in the primary credits file.
