@@ -1,5 +1,7 @@
 I'd like to acknowledge the following people/group/company:
 
+**Main Credits**
+
 Matt (3477) for Hideous Destructor
 Yholl for HD_UniqueSounds
 id Software for the Doom franchise
@@ -12,6 +14,7 @@ Zueira for making me have the ability to cobble up the voice lines for the zappe
 Graf Zahl and team for GZDoom and ZDoom as a whole
 Bethesda Softworks for the Fallout franchise
 Mojang for Minecraft
+Toby Fox for UNDERTALE and DELTARUNE 
 Hive Team for The Hive
 SgtMajorKiwi for being a kiwi
 Aubrey Hodges for the cool soundtracks and sounds
@@ -26,3 +29,13 @@ Immerse Murder Mystery Pack, and being
 my friend for more than 3 years.
 
 Thank you. :)
+
+**Pack Icon Credits**
+
+Toby Fox
+DigMinecraft
+id Software
+Innersloth
+Matt
+Hideous Destructor Discord Server
+BenitezClance4/Renegade4339
