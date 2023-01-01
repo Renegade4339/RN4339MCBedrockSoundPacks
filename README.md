@@ -50,6 +50,12 @@ footstep replacement sounds from the footsteps addon for zdoom. 'nuff said. From
 self-explanatory. Commissioned by gabixPHpear. Full credits in the credits file for the mod.
 
 
+>UNDERTALEsp
+
+A remake of my old sound pack since 2020.
+WARNING: IT HAS LOUD SOUNDS (PARTICULARLY THE EXPLOSION AND LIGHTNING IMPACT SOUNDS), SO BE WARNED.
+
+
 [1] - SIDENOTE ON USING ANY PACK HAVING THIS NOTE: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
 
 Full credits in the primary credits file.
