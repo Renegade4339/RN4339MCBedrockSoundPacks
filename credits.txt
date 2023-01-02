@@ -1,5 +1,15 @@
 I'd like to acknowledge the following people/group/company:
 
+**Pack Icon Credits**
+
+Toby Fox
+DigMinecraft
+id Software
+Innersloth
+Matt
+Hideous Destructor Discord Server
+BenitezClance4/Renegade4339
+
 **Main Credits**
 
 Matt (3477) for Hideous Destructor
@@ -29,13 +39,3 @@ Immerse Murder Mystery Pack, and being
 my friend for more than 3 years.
 
 Thank you. :)
-
-**Pack Icon Credits**
-
-Toby Fox
-DigMinecraft
-id Software
-Innersloth
-Matt
-Hideous Destructor Discord Server
-BenitezClance4/Renegade4339
