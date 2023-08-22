@@ -56,6 +56,18 @@ A remake of my old sound pack since 2020.
 WARNING: IT HAS LOUD SOUNDS (PARTICULARLY THE EXPLOSION AND LIGHTNING IMPACT SOUNDS), SO BE WARNED.
 
 
+> Quake Jumping Sounds
+
+A silly sound pack I made so that every time you jump, your character will say "HUUH". Best paired
+when playing with QuakeCraft. REQUIRES HDESTSOUNDS OR HDESTSOUNDSPSX 1.4.2 OR HIGHER.
+
+
+> DOOM 64 Music Pack
+
+A music pack that replaces the vanilla tracks with ones from DOOM 64 (along with fanmade ones
+with the same ambient style). Credits inside the .mcpack file.
+
+
 [1] - SIDENOTE ON USING ANY PACK HAVING THIS NOTE: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
 
 Full credits in the primary credits file.
