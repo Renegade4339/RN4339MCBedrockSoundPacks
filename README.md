@@ -64,8 +64,7 @@ when playing with QuakeCraft. REQUIRES HDESTSOUNDS OR HDESTSOUNDSPSX 1.4.2 OR HI
 
 > DOOM 64 Music Pack
 
-A music pack that replaces the vanilla tracks with ones from DOOM 64 (along with fanmade ones
-with the same ambient style). Credits inside the .mcpack file.
+(The description is in [its own repository](https://github.com/Renegade4339/D64MusicPack/tree/main) as the packaged file is too large that it warrants its own repository.)
 
 
 [1] - SIDENOTE ON USING ANY PACK HAVING THIS NOTE: Please deactivate the pack should you decided to hop off from Murder Mystery since MM uses most sound events from Vanilla Minecraft.
